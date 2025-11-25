@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+pandas
+scikit-learn
+python-dotenv
+pytest
+prometheus-client
+
+/.\venv\Scripts\activate/
+
+/ uvicorn main:app --reload/

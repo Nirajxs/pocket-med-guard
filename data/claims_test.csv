@@ -1,0 +1,6 @@
+claim_text,label
+"Turmeric cures cancer",likely_false
+"Does honey cure cough?",no_evidence_found
+"Vaccines cause autism",likely_false
+"Handwashing reduces infection",supported_or_inconclusive
+"Vitamin C prevents common cold",no_evidence_found
